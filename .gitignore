@@ -33,7 +33,7 @@ local.properties
 .cxx/
 *.keystore
 !debug.keystore
-android/unityLibrary/*
+android/unityLibrary
 
 
 # node.js
